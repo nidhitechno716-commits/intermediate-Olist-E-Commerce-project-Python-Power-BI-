@@ -20,3 +20,7 @@ Delivery performance & delays
 - Freight cost contributes a meaningful portion to overall revenue, emphasizing the importance of optimizing shipping strategies.
 
 These insights can help business stakeholders improve delivery performance, optimize regional operations, and enhance customer experience.
+# 🎨 Dashboard Design
+- Applied a custom Power BI theme for consistent branding
+- Used KPI-focused color coding to highlight performance and risks
+- Designed with stakeholder readability in mind
