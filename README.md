@@ -24,3 +24,9 @@ These insights can help business stakeholders improve delivery performance, opti
 - Applied a custom Power BI theme for consistent branding
 - Used KPI-focused color coding to highlight performance and risks
 - Designed with stakeholder readability in mind
+## 📐 DAX Measures Used
+- Total Orders (Distinct count)
+- Total Revenue
+- Late Delivery Rate
+- Orders per Customer
+- Year-over-Year Growth
